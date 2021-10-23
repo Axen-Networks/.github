@@ -1,1 +1,1 @@
-xonos.host
+https://xonos.host
